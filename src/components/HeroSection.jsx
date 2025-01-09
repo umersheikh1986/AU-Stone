@@ -18,12 +18,14 @@ function HeroSection() {
                 WELCOME TO
               </h2>
               <h2 className="text-7xl font-semibold font-Merri bg-gradient-to-r from-[#F6F700] via-yellow-400 to-[#9C7509] bg-clip-text text-transparent">
-                Dijllah Gold
+                AU Stone
               </h2>
 
               <p className="text-sm sm:text-md md:text-lg mt-4 font-Merri text-gray-200 leading-relaxed font-roboto">
-                One of our most important company assets is our reputation for
-                ethical behaviour, honesty and fair transaction
+                Lorem Ipsum is simply dummy text of the printing and typesetting
+                industry. Lorem Ipsum has been the industry's standard dummy
+                text ever since the 1500s, when an unknown printer took a galley
+                of type and scrambled it to make a type specimen book.
               </p>
               <div className="mt-5 flex flex-wrap md:flex-nowrap gap-2 sm:gap-4">
                 <AnimateButton />

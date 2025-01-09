@@ -25,7 +25,7 @@ export default function Navbar() {
                 className="h-16 w-24 md:h-20 md:w-28 lg:pr-4 sm:mr-0"
                 alt="Flowbite Logo"
               /> */}
-              <h1 className="text-white text-2xl font-Merri">Dijllah</h1>
+              <h1 className="text-white text-2xl font-Merri">AU Stone</h1>
             </Link>
           </div>
 

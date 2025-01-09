@@ -61,7 +61,7 @@ function AboutSection() {
           <div className="text-center w-full md:w-1/2 space-y-4">
             <h1 className="text-gray-400 text-lg">About the Company</h1>
             <h1 className="text-yellow-400 text-2xl md:text-4xl font-bold">
-              We provide Bespoke Gold Services
+              Lorem Ipsum is simply dummy text
             </h1>
           </div>
           {/* Image */}
@@ -91,13 +91,14 @@ function AboutSection() {
           </div>
           <div className="w-full md:w-1/2 text-gray-100 space-y-4 text-center md:text-left font-Merri">
             <h1>
-              One of our most important company assets is our reputation for
-              Ethical Behaviour, Honesty and Fair Transactions.
+              Lorem Ipsum is simply dummy text of the printing and typesetting
+              industry. Lorem Ipsum has been the industry's standard dummy text
+              ever since the 1500s.
             </h1>
             <h1>
-              Dijllah Jewellery was established in 2005 with an office based in
-              the Gold House Building located in Deira's famous gold souk.
-              Dubai, with a focus on wholesale Jewellery trading.
+              Lorem Ipsum is simply dummy text of the printing and typesetting
+              industry. Lorem Ipsum has been the industry's standard dummy text
+              ever since the 1500s.
             </h1>
             <div className="flex justify-center md:justify-start">
               <AnimateButton />

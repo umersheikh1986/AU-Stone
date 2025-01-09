@@ -74,18 +74,18 @@ function Services() {
             We Deal In
           </h1>
           <p className="mt-2 text-gray-400 text-sm md:text-base">
-            Dijllah Jewellery was established in 2005 with an office based in
-            the Gold House Building located in Deira's famous gold souk, Dubai,
-            with a focus on wholesale Jewellery trading.
+            Lorem Ipsum is simply dummy text of the printing and typesetting
+            industry. Lorem Ipsum has been the industry's standard dummy text
+            ever since the 1500s.
           </p>
           <div className="space-y-2">
             {[
-              "ORC hanging and price risk management",
-              "Trading in Gold Bars",
-              "Trading in Silver Bars",
-              "Discover Gold Jewellery",
-              "Purchase in limited amount",
-              "Product with Guarantee",
+              "First Service",
+              "Second Service",
+              "Third Service",
+              "Fourth Service",
+              "Fifth Service",
+              "Sixth Service",
             ].map((service) => (
               <div
                 className="flex items-center space-x-2 text-sm md:text-base"

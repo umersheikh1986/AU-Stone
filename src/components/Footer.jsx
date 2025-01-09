@@ -142,13 +142,16 @@ export default function Footer() {
             {/* Logo and Description */}
             <div className="mb-6 md:mb-0 text-center md:text-left">
               <a href="/" className="">
-                <h1 className="text-3xl md:text-5xl font-Merri">Dijllah</h1>
+                <h1 className="text-3xl md:text-5xl text-center font-Merri">
+                  AU Stone
+                </h1>
               </a>
               <hr className="mt-4" />
-              <p className="mt-4 font-Merri">
-                The Focus Of Our Business
-                <br /> Is Wholesale Jewellery
-                <br /> Trading in Dubai
+              <p className="mt-4 font-Merri text-center">
+                Lorem Ipsum is simply dummy
+                <br /> text of the printing and
+                <br />
+                typesetting industry.
               </p>
               <hr className="mt-4" />
               <div className="flex justify-center md:justify-start gap-4 mt-6 font-Merri">
@@ -227,7 +230,7 @@ export default function Footer() {
                 <ul className="text-white font-Merri text-base font-medium">
                   <li className="mb-4 flex items-center gap-2">
                     <MdEmail className="text-yellow-500" />
-                    <span>dijllah@gmail.com</span>
+                    <span>AUstone@gmail.com</span>
                   </li>
                   <li className="mb-4 flex items-center gap-2">
                     <FaPhoneAlt className="text-yellow-500" />

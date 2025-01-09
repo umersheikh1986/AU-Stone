@@ -109,19 +109,19 @@ function Products() {
                   Gold Bars
                 </h2>
                 <p className="text-gray-300">
-                  Dijllah Jewellery was established in 2005 with an office based
-                  in the Gold House Building located in Deira's famous gold
-                  souk, Dubai, with a focus on wholesale Jewellery trading.
+                  Lorem Ipsum is simply dummy text of the printing and
+                  typesetting industry. Lorem Ipsum has been the industry's
+                  standard dummy text ever since the 1500s.
                 </p>
               </div>
               <div className="grid grid-cols-2 md:grid-cols-3 gap-4 mt-6 text-gray-300">
                 {[
-                  "One Kilo Bars",
-                  "Large Bars",
-                  "Gold Grains",
-                  "Half Kilo Bars",
-                  "TT Bars",
-                  "Quarter Kilo Bars",
+                  "Product One",
+                  "Product Two",
+                  "Product Three",
+                  "Product Four",
+                  "Product Five",
+                  "Product Six",
                 ].map((item) => (
                   <div className="flex items-center space-x-2" key={item}>
                     <div className="w-2 h-2 rounded-full bg-yellow-500 flex-shrink-0"></div>
