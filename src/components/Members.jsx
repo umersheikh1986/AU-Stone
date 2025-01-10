@@ -91,7 +91,7 @@ function Members() {
             AU Stone Membership
           </h1>
         </div>
-        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-4 px-4">
+        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-4 md:gap-0 px-4">
           <div className="card bg-[#252525] text-neutral-content w-full h-40 rounded-none">
             <div className="card-body items-center text-center">
               <h1 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold">
